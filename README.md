@@ -1,1 +1,1 @@
-## Homessy - A Grocery delivery
+## Homessy - A Grocery delivery Website
